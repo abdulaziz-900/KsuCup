@@ -1,0 +1,4 @@
+ID,firstName,lastName,PASSWORD,EMAIL,phoneNumber,accountTYPE
+1234567890,Ali,khaild,2e82b0cd7e377d8bc44d55253b868faf4dfa6790dd92b8442486d0e4ca2bbbb8,ali990@ksu.edu.sa,0544993238,Admin
+EventID,EventName,EventLocation,EventCapacity,bookingNumber,EventDateAndTime
+acID,Eid
